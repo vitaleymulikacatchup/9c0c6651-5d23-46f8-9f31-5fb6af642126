@@ -123,7 +123,7 @@ export default function ToyStorePage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           imagePosition="right"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766002665557-u3i30gmm.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055427928-2rbjdb4e.jpg"
           imageAlt="ToyStore shop interior"
           bulletPoints={[
             {
