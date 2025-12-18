@@ -74,14 +74,14 @@ export default function ToyStorePage() {
               id: "1",
               name: "Adventure Action Figure",
               price: "$24.99",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055254445-10ig5efq.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055530935-tdiylvl7.jpg",
               imageAlt: "Action figure toy"
             },
             {
               id: "2",
               name: "Colorful Building Blocks Set",
               price: "$34.99",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766002656277-ok2wj8vz.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055531458-gacwm1v7.jpg",
               imageAlt: "Building blocks toy set"
             },
             {
