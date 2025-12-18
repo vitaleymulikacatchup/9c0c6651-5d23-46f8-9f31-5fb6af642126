@@ -49,7 +49,7 @@ export default function ToyStorePage() {
           description="Discover the best selection of toys for kids of all ages. From action figures to building blocks, find the perfect toy for every child."
           tag="Grand Opening"
           tagIcon={Sparkles}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766002654070-bi3q1pqq.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055280088-xsdcgai1.jpg"
           imageAlt="Colorful toys collection"
           textPosition="bottom-left"
           showBlur={true}
@@ -74,7 +74,7 @@ export default function ToyStorePage() {
               id: "1",
               name: "Adventure Action Figure",
               price: "$24.99",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766002655067-r9srru2l.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1766055254445-10ig5efq.jpg",
               imageAlt: "Action figure toy"
             },
             {
